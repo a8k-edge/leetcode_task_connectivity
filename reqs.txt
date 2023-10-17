@@ -1,0 +1,7 @@
+aiofiles
+requests
+pyvis
+networkx
+aiohttp
+scipy
+jupyter
